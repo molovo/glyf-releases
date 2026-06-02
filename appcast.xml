@@ -7,13 +7,13 @@
         <language>en</language>
 <item>
     <title>Version 0.1.1</title>
-    <sparkle:version>1</sparkle:version>
+    <sparkle:version>2</sparkle:version>
     <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
     <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-    <pubDate>Tue, 02 Jun 2026 21:41:59 +0000</pubDate>
+    <pubDate>Tue, 02 Jun 2026 21:52:17 +0000</pubDate>
     <enclosure
         url="https://github.com/molovo/glyf-releases/releases/download/v0.1.1/Glyf-0.1.1.zip"
-        sparkle:edSignature="R82KGnv6Egp219dujQCQ9CBBJgSK+cUPVUYiRxrPhQbBMCGdh3txbcAVyxXHfCH84N/vfWDhmDLZHuzCs3xCAQ==" length="11525158"
+        sparkle:edSignature="HhlvBncFatO9Ke5HjZSx1ljgFvnJsaIRXkushNqpBEBjaNWMmXT891DXgKJyDD0r825lM3Yr3/Ya9MjWmnFCAw==" length="11525159"
         type="application/octet-stream"/>
 </item>
     </channel>
