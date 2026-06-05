@@ -1,3 +1,3 @@
-# glyf-releases
+# Glyf
 
 <https://glyf.molovo.co>
